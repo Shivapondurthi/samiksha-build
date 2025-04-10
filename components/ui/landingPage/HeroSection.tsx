@@ -69,7 +69,7 @@ export default function HeroSection() {
             >
               <div className="flex items-center">
 
-              <span className="text-blue-500 mr-4">// </span> <p>WELCOME TO SAMIKSHA ACADEMY</p>
+              <span className="text-blue-500 mr-4">{'//'}</span> <p>WELCOME TO SAMIKSHA ACADEMY</p>
               </div>
             </motion.p>
             <motion.h1
